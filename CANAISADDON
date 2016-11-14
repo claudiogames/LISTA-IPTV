@@ -1,9 +1,4 @@
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT HD[/B][/I][/COLOR]
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Cultura[/B][/I][/COLOR]
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8 
 
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Cultura Hd[/B][/I][/COLOR]
-http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8   
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT[/B][/I][/COLOR]
 http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8 
