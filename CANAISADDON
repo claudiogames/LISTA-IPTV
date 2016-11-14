@@ -1,0 +1,66 @@
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT HD[/B][/I][/COLOR]
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Cultura[/B][/I][/COLOR]
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8 
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Cultura Hd[/B][/I][/COLOR]
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8   
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT[/B][/I][/COLOR]
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8 
+
+ 
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT CARUARU[/B][/I][/COLOR]
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i33ef2240a1c25711/version/1465006060/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV NOVO TEMPO[/B][/I][/COLOR]
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8?TOPCINE 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Cultura[/B][/I][/COLOR]
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8 
+
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/TV_Cultura.svg/200px-TV_Cultura.svg.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Cultura Hd[/B][/I][/COLOR]
+http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8   
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]REDE TV[/B][/I][/COLOR]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i2cb45ab979c8c973/version/1465007093/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]REDE TV[/B][/I][/COLOR]
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i00802082899dfb94/version/1465008169/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV BRASIL[/B][/I][/COLOR]
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i00802082899dfb94/version/1465008169/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV BRASIL[/B][/I][/COLOR]
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.seeddigital.com.br/wp-content/uploads/2015/07/logo14.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]GLOBO[/B][/I][/COLOR]
+http://109.200.202.87:8081/live/globo/playlist.m3u8   
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q33uY1pmZq8/Urtd9JdyE_I/AAAAAAAAAmE/xYoOFGQ4DTQ/s1600/Logo-TV-Record.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]RECORD[/B][/I][/COLOR]
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-4--HbdSkrUg/VOfDU36_1XI/AAAAAAAAxrk/DU0yZQPWTB8/s1600/tv%2Bdi%C3%A1rio%2Blogo%2B2015.jpg"group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV DIARIO[/B][/I][/COLOR]
+ http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/ie7b656af8defbf74/version/1465008226/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]TV ESCOLA[/B][/I][/COLOR]
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]BAND SP[/B][/I][/COLOR]
+rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1102140048/band_logo_quadrado_PNG32.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]BAND PARÁ[/B][/I][/COLOR]
+http://painel.tvdigitalhd.org:1935/rbaredebrasil8355/rbaredebrasil8355/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/565204197675507712/LX2kxB8D.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Familia[/B][/I][/COLOR]
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.rbtv.com.br/images/wwb_img5.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Brasil[/B][/I][/COLOR]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1IqUfxr.png" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Livre Tv[/B][/I][/COLOR]
+http://172.93.110.130:1935/livretv/livretv/playlist.m3u8
+
+ 
+#EXTINF:-1 tvg-logo="http://www.rbtv.com.br/images/wwb_img5.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Rede Brasil[/B][/I][/COLOR]
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/479278823519703040/CfRkvHio_400x400.jpeg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]Tv Camera[/B][/I][/COLOR]
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+
