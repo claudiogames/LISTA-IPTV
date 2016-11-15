@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT HD[/B][/I][/COLOR]
-http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbt.m3u8 
+https://www.youtube.com/embed/RzOBUdGJGIg 
 
 #EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=320x10000:format=jpg/path/s08737a366136fc33/image/i0d878bdd23fc7441/version/1465005969/image.jpg" group-title="CANAIS ABERTOS",[COLOR blue][I][B]SBT CARUARU[/B][/I][/COLOR]
 http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
@@ -83,7 +83,6 @@ http://109.200.202.87:8081/live/sportv/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://realmadridtv.weebly.com/uploads/6/4/6/5/6465786/6810477.png?296" group-title="ESPORTES",[COLOR blue][I][B]Real Madrid Tv[/B][/I][/COLOR]
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8 
-
 
 
 
